@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Video files (large source material)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.ts
+*.m2ts
+*.3gp
+*.mpeg
+*.mpg
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
